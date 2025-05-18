@@ -17,7 +17,7 @@ A simple, browser-based multiple-choice quiz built with vanilla JavaScript. This
 
 ## 🚀 Live Demo
 
-👉 [View it on GitHub Pages](https://charlottegale.github.io/js-quiz-app)
+👉 [View it on GitHub Pages](https://charlottegale.github.io/js-quiz-app/)
 
 ## 📦 Getting Started
 
