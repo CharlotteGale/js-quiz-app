@@ -30,7 +30,14 @@ cd js-quiz-app
 # Open index.html in a browser
 ```
 
-## ✨ Future Improvements
+## 💡 What I Learned
+- DOM manipulation and event handling in vanilla JS
+- Structuring clean quiz logic without relying on frameworks
+- Improving UX with real-time feedback and state reset
+
+
+## 📌 Notes
+In the future, I plan to add:
  - Add timer functionality
  - Track high scores with localStorage
  - Add category selection or difficulty levels
